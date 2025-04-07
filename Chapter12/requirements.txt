@@ -1,0 +1,9 @@
+torch==2.2.1
+librosa==0.11.2
+transformers==4.38.2
+requests==2.32.0
+soundfile==0.12.1
+pandas==2.2.2
+scikit-learn==1.4.2
+datasets==2.18.0
+nltk==3.9.1
